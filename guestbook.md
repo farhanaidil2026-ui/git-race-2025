@@ -11,7 +11,7 @@ Muhammad Hafizuddin Hakimi
 
 - Hovah Yii (@hovahyii) - 🎯 Workshop Instructor
 - Wong Qi Heng (@WongQiHeng06)
----
+- Aidil Farhan (@farhanaidil2026-ui)
 
 ## How to Participate
 
