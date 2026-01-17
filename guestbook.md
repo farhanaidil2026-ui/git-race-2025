@@ -1,6 +1,7 @@
 # 📝 Git Race 2025 Guestbook
 
 Welcome racers! Add your name below to join the race! 🏁
+Muhammad Hafizuddin Hakimi
 
 ---
 
